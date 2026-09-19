@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
 
-<img align="right" alt="coding" width="400"
+<img align="right" alt="coding" width="300"
 src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif">
 
 * 🤖 Passionate about **Automation, Machine Learning, Artificial Intelligence, and Full-Stack Development**
@@ -23,7 +23,7 @@ src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-
 
 * 📫 Reach me at **[shubii5463@gmail.com](mailto:shubii5463@gmail.com)**
 
-* ⚡ Fun fact: **I love playing PC games. 🎨👩‍🎨**
+* ⚡ Fun fact: **I love playing PC games. 👩‍🎨**
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
