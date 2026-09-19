@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Sana Khan Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
 
 <img align="right" alt="coding" width="300"
